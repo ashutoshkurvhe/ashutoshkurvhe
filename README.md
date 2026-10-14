@@ -107,26 +107,6 @@ I'm a **full-stack developer based in India**, working with the MERN stack and T
     <img src="./assets/metrics/languages.svg" width="100%" alt="Languages by source bytes, not proficiency.">
   </picture>
 
-## Contribution calendar
-
-<a href="https://github.com/ashutoshkurvhe?tab=overview">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/metrics/calendar-mobile.svg">
-    <img src="./assets/metrics/calendar.svg" width="100%" alt="Obsidian contribution calendar for the last 365 days.">
-  </picture>
-</a>
-
-<details>
-<summary>About these numbers</summary>
-
-The cards are dated snapshots of public GitHub data. Contributions include counts visible on my public profile; private repository details are not requested. The current streak allows today to remain unfinished. Language percentages describe repository source bytes, not proficiency.
-
-[View the underlying counts and dates](./data/metrics.json)
-
-</details>
-
----
-
 **Let's connect**
 
 <p>
