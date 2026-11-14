@@ -88,25 +88,6 @@ I'm a **full-stack developer based in India**, working with the MERN stack and T
   <img src="./assets/badges/nodemon.svg" height="32" alt="Nodemon">
 </p>
 
-## GitHub activity
-
-<a href="https://github.com/ashutoshkurvhe?tab=overview">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/metrics/overview-mobile.svg">
-    <img src="./assets/metrics/overview.svg" width="100%" alt="GitHub overview: public repositories and contribution statistics.">
-  </picture>
-</a>
-
-<picture>
-    <source media="(max-width: 600px)" srcset="./assets/metrics/streak-mobile.svg">
-    <img src="./assets/metrics/streak.svg" width="100%" alt="Contribution streaks from January 2025.">
-  </picture>
-
-<picture>
-    <source media="(max-width: 600px)" srcset="./assets/metrics/languages-mobile.svg">
-    <img src="./assets/metrics/languages.svg" width="100%" alt="Languages by source bytes, not proficiency.">
-  </picture>
-
 **Let's connect**
 
 <p>
@@ -114,6 +95,4 @@ I'm a **full-stack developer based in India**, working with the MERN stack and T
   <a href="mailto:kurvheashutosh@gmail.com"><img src="./assets/badges/email-address.svg" height="32" alt="kurvheashutosh@gmail.com"></a>
 </p>
 
-<p>
-  <a href="https://github.com/ashutoshkurvhe"><img src="https://komarev.com/ghpvc/?username=ashutoshkurvhe&amp;style=flat-square&amp;color=19241a&amp;label=PROFILE+VIEWS" alt="Profile view counter"></a>
-</p>
+
